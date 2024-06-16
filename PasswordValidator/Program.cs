@@ -21,14 +21,14 @@
 
             for (int i = 0; i < password.Length; i++)
             {
-                char current = password[i];
+                int current = password[i];
 
-                if ((int)current >= 48 && (int)current <= 57)
+                if (current >= 48 && current <= 57)
                 {
                     counterDigits++;
                 }
 
-                if ((int)current < 48 || (int)current > 122 || (int)current > 90 && (int)current < 97 || (int)current > 57 && (int)current < 65)
+                if (current < 48 || current > 122 || current > 90 && current < 97 || current > 57 && current < 65)
                 {
                     lettersDigits = false;
                 }
