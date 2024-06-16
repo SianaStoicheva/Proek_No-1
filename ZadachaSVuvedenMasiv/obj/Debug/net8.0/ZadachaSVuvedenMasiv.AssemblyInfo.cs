@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZadachaSVuvedenMasiv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbedf826a407ab62eddf2af096ff637ffd3d3402")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZadachaSVuvedenMasiv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZadachaSVuvedenMasiv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

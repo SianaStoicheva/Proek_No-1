@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Proekt-No.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{354C680C-42A2-4B58-9FCC-3AA93F179492}|PasswordValidator\\PasswordValidator.csproj|c:\\users\\lenovo\\desktop\\siana\\proekt-no.1\\passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{354C680C-42A2-4B58-9FCC-3AA93F179492}|PasswordValidator\\PasswordValidator.csproj|solutionrelative:passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{047D3652-9506-4E05-B045-74D6E3F18A37}|ZadachaSVuvedenMasiv\\ZadachaSVuvedenMasiv.csproj|c:\\users\\lenovo\\desktop\\siana\\proekt-no.1\\zadachasvuvedenmasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047D3652-9506-4E05-B045-74D6E3F18A37}|ZadachaSVuvedenMasiv\\ZadachaSVuvedenMasiv.csproj|solutionrelative:zadachasvuvedenmasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354C680C-42A2-4B58-9FCC-3AA93F179492}|PasswordValidator\\PasswordValidator.csproj|c:\\users\\lenovo\\desktop\\siana\\proekt-no.1\\passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354C680C-42A2-4B58-9FCC-3AA93F179492}|PasswordValidator\\PasswordValidator.csproj|solutionrelative:passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75683CDD-F832-42E3-A2AB-41FCCB29A14B}|BroeneNaNuliVMasiv\\BroeneNaNuliVMasiv.csproj|c:\\users\\lenovo\\desktop\\siana\\proekt-no.1\\broenenanulivmasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Proekt-No.1\\PasswordValidator\\Program.cs",
               "RelativeDocumentMoniker": "PasswordValidator\\Program.cs",
@@ -43,15 +43,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Proekt-No.1\\ZadachaSVuvedenMasiv\\Program.cs",
               "RelativeDocumentMoniker": "ZadachaSVuvedenMasiv\\Program.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Proekt-No.1\\ZadachaSVuvedenMasiv\\Program.cs",
               "RelativeToolTip": "ZadachaSVuvedenMasiv\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T09:36:29.849Z"
+              "WhenOpened": "2024-06-10T09:36:29.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

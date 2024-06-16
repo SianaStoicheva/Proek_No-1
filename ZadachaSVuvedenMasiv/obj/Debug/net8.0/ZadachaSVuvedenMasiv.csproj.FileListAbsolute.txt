@@ -26,3 +26,4 @@ C:\Users\lenovo\Desktop\Siana\Proekt-No.1\ZadachaSVuvedenMasiv\obj\Debug\net8.0\
 C:\Users\lenovo\Desktop\Siana\Proekt-No.1\ZadachaSVuvedenMasiv\obj\Debug\net8.0\ZadachaSVuvedenMasiv.pdb
 C:\Users\lenovo\Desktop\Siana\Proekt-No.1\ZadachaSVuvedenMasiv\obj\Debug\net8.0\ZadachaSVuvedenMasiv.genruntimeconfig.cache
 C:\Users\lenovo\Desktop\Siana\Proekt-No.1\ZadachaSVuvedenMasiv\obj\Debug\net8.0\ref\ZadachaSVuvedenMasiv.dll
+C:\Users\lenovo\Desktop\Siana\Proekt-No.1\ZadachaSVuvedenMasiv\obj\Debug\net8.0\ZadachaSVuvedenMasiv.sourcelink.json

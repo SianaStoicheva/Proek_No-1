@@ -11,7 +11,7 @@
             for (int i = 0; i < 20; i++)
             {
                 Console.Write($"Chislo {i + 1}: ");
-                double input = Convert.ToDouble(Console.ReadLine());
+                double input = double.Parse(Console.ReadLine());
 
                 if (input == 0)
                 {
